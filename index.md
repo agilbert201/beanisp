@@ -28,4 +28,4 @@ https://cv-fiber.atpy.it/giving-portal
 
 ## Local
 
-* [Vermont](/vermont)
+* [Vermont](vermont)
