@@ -2,8 +2,8 @@
 
 ## Some "How To" Links
 
-* https://swiftfox.net/index.php/blog_posts/starting-a-wisp/
-* http://www.wispa.org/Resources/HOW-TO-START-A-WISP
+* [SwiftFox Starting A WISP](https://swiftfox.net/index.php/blog_posts/starting-a-wisp/)
+* [WISPA How To](http://www.wispa.org/Resources/HOW-TO-START-A-WISP)
 
 ## Organizations
 
