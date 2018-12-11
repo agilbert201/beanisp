@@ -1,1 +1,1 @@
-## Simple Respoistory of ISP Resources
+## Simple Respository of ISP Resources
